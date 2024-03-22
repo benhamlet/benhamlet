@@ -9,7 +9,7 @@
 + Harvard's CS50x.
     + Programing in C.
     + JavaScript.
-    + Finsihing Autumn 2024.
+    + Finishing Autumn 2024.
 
 ## About me :standing_man:
 
