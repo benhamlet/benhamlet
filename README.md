@@ -1,45 +1,52 @@
-# Hi there 👋 I'm Ben.
-:desktop_computer: _I'm looking for my first tech role._ :desktop_computer:
+# CS50 Projects
 
-## I am currently studying :books:
+This repository is a collection of C programming projects completed as part of Harvard's [CS50x](https://cs50.harvard.edu/x/) online course.
 
-+ Full Stack Develpment Bootcamp
-    + Focusing on the M.E.R.N stack.
-    + Finishing Summer 2024.
-+ Harvard's CS50x.
-    + Programing in C.
-    + JavaScript.
-    + Finishing Autumn 2024.
+Each project is contained in its own folder and includes:
+- A brief description of the task
+- A `README.md` specific to that project
+- Source code written in C
+- Instructions to compile and run using the CS50 library
 
-## About me :standing_man:
+> 🔧 Note: These projects require the CS50 header file to compile. Setup instructions are provided within each individual project's README.
 
-I am looking to change career and get my first tech role. I've opted to study CS50 to refresh my Computer Science knowledge and to attend a bootcamp delivering Full Stack Development training. This should build on my previous expereince.
+---
 
-My passion for tech began at an early age. I played around with a Commodore 64 and was hooked with programming. One that specifically sticks in my mind, was a ball which bounced around the monitor screen. I also programmed some simple games, given the tutorial book that came with the computer. In my teenage years, the internet came to our home. I began playing an early MMORPG called Ultima Online. I was hooked on the game and quickly found that there was a scene develpoing and running custom servers. I spent many months teaching myself C/C++ to create my own systems and modifying how certain elements in the game ran. I hosted a successful server for just over a year. Along with any server, a webpage was essential. I learnt HTML and some Flash, to make a dynamic webpage for the time.
+## 📁 Projects Included
 
-All through my adult life, I've kept up to date with tech and some programming. I've used ADB to jailbreak my phones and tweak settings. I've had a couple of Raspberry Pi projects and have become very good with automatic Excel spreadsheet processes using Visual Basic.
+### 🔹 `creditCardCheck`
+Implements Luhn's Algorithm to determine the validity of a credit card number based on its digits.
 
-After school, I was unable to attend University and gave up on pursuing a career in tech. I began a career as a Heavy Vehicle Engineer. I've had a successful career and have been in Quality Control and management positions for the last 8 years but I've always wondered what could have been. Recently I made the decision to start training and to find a new job doing what I enjoy.
+### 🔹 `marioPyramids`
+Creates a Mario-style pyramid in the command line interface, with height determined by user input.
 
-## How to get in touch? :e-mail:
+### 🔹 `readability`
+Analyzes a block of text and outputs the estimated U.S. grade level required to comprehend it, using the Coleman-Liau index.
 
-+ Email : benhamlet84@googlemail.com
-+ Github : https://github.com/benhamlet
-+ Linkedin : https://www.linkedin.com/in/ben-hamlet-55ba002b4/
+### 🔹 `scrabble`
+Simulates a simplified version of Scrabble where two players enter words, and the program calculates the score to determine the winner.
 
+### 🔹 `substitutionCipher`
+Encrypts plaintext using a simple substitution cipher based on a user-provided key.
 
+---
 
-<!--
-**benhamlet/benhamlet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📚 Technologies Used
 
-Here are some ideas to get you started:
+- C programming language
+- CS50 Library (`cs50.h`)
+- GCC compiler
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## ✅ Getting Started
+
+To run any of these programs:
+1. Follow setup instructions in the project’s README.
+2. Make sure the CS50 library is installed and configured.
+3. Compile using `make`, then run the executable.
+
+Example:
+```bash
+make creditCardCheck
+./creditCardCheck
