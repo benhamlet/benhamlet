@@ -1,52 +1,37 @@
-# CS50 Projects
+# Hi there 👋 I'm Ben
 
-This repository is a collection of C programming projects completed as part of Harvard's [CS50x](https://cs50.harvard.edu/x/) online course.
-
-Each project is contained in its own folder and includes:
-- A brief description of the task
-- A `README.md` specific to that project
-- Source code written in C
-- Instructions to compile and run using the CS50 library
-
-> 🔧 Note: These projects require the CS50 header file to compile. Setup instructions are provided within each individual project's README.
+🖥️ Aspiring Full Stack Developer | Career Changer | Tech Enthusiast
 
 ---
 
-## 📁 Projects Included
+## 🚀 Currently Learning
 
-### 🔹 `creditCardCheck`
-Implements Luhn's Algorithm to determine the validity of a credit card number based on its digits.
-
-### 🔹 `marioPyramids`
-Creates a Mario-style pyramid in the command line interface, with height determined by user input.
-
-### 🔹 `readability`
-Analyzes a block of text and outputs the estimated U.S. grade level required to comprehend it, using the Coleman-Liau index.
-
-### 🔹 `scrabble`
-Simulates a simplified version of Scrabble where two players enter words, and the program calculates the score to determine the winner.
-
-### 🔹 `substitutionCipher`
-Encrypts plaintext using a simple substitution cipher based on a user-provided key.
+- **Full Stack Development Bootcamp** (MERN Stack) — Finishing **Summer 2024**
+- **Harvard CS50x** (Programming in C) — Finishing **Autumn 2024**
+- JavaScript, Node.js, React, Express, MongoDB
 
 ---
 
-## 📚 Technologies Used
+## 👨‍💻 About Me
 
-- C programming language
-- CS50 Library (`cs50.h`)
-- GCC compiler
+I'm transitioning into tech after a successful career in engineering and quality management. My passion for programming started young — experimenting with a Commodore 64 and later running my own custom server for *Ultima Online*, where I self-taught C/C++ and built websites using HTML and Flash.
+
+Over the years, I’ve continued exploring tech through:
+- Raspberry Pi projects
+- Automating Excel workflows with Visual Basic
+- Mobile device tweaking using ADB
+- Building tools and problem-solving through code
+
+Now, I’m diving deep into software development with a focus on **building full-stack applications**, and I’m actively seeking my first tech role.
 
 ---
 
-## ✅ Getting Started
+## ✉️ Get in Touch
 
-To run any of these programs:
-1. Follow setup instructions in the project’s README.
-2. Make sure the CS50 library is installed and configured.
-3. Compile using `make`, then run the executable.
+- 📧 Email: [benhamlet84@googlemail.com](mailto:benhamlet84@googlemail.com)
+- 🐙 GitHub: [github.com/benhamlet](https://github.com/benhamlet)
+- 💼 LinkedIn: [linkedin.com/in/ben-hamlet-55ba002b4](https://www.linkedin.com/in/ben-hamlet-55ba002b4/)
 
-Example:
-```bash
-make creditCardCheck
-./creditCardCheck
+---
+
+Thanks for visiting my profile!
