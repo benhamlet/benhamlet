@@ -33,4 +33,7 @@ Now, I’m diving deep into software development with a focus on **building full
 
 ---
 
+Thanks for checking out my profile! I'm open to collaboration, mentorship, and junior developer opportunities 🚀
+---
+
 Thanks for visiting my profile!
