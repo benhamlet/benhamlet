@@ -6,8 +6,7 @@
 
 ## 🚀 Currently Learning
 
-- **Full Stack Development Bootcamp** (MERN Stack) — Finishing **Summer 2024**
-- **Harvard CS50x** (Programming in C) — Finishing **Autumn 2024**
+- **Full Stack Development Bootcamp** (MERN Stack) — Finishing **Autumn 2025**
 - JavaScript, Node.js, React, Express, MongoDB
 
 ---
